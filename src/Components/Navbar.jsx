@@ -35,4 +35,5 @@ const Navbar = ({setCategory}) => {
     )
   }
   
+  
   export default Navbar
